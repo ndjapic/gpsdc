@@ -1,0 +1,1 @@
+Calculate distance on planet Earth's surface using GPS data. Angles can be entered in DMS format or in DD format, when M and S fields are left empty. This is one html file open source project. Enjoy.
